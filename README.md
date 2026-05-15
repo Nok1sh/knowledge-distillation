@@ -47,7 +47,7 @@
 
 ![alt text](images/sft.png)
 
-### GRRPO
+### GRPO
 
 ![alt text](images/grpo.png)
 
